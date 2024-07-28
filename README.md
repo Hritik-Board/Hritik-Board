@@ -12,7 +12,7 @@
 
 
 
-<p align="left">Building the web, one line of code at a time.<br>📚 Still in my learning phase with real world projects and company experiences<br></p>
+<p align="left">Building the web, one line of code at a time.<br>📚 Still in my learning phase with real world projects and company experiences</p>
 
 
 

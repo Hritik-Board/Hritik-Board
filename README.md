@@ -1,4 +1,3 @@
-<img style= "height:100px , width: 30px"  align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 <h1 align="left">Hey 👋 What's up?</h1>
 
 

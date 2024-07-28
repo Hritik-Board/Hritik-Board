@@ -10,11 +10,11 @@
 
 <h2 align="left">About me</h2>
 
-###
+
 
 <p align="left">Building the web, one line of code at a time.<br>📚 Still in my learning phase with real world projects and company experiences<br></p>
 
-###
+
 
 <h2 align="left">I code with</h2>
 
